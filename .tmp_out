@@ -1,0 +1,15 @@
+qfind v2.1 by Matthias Merzenich, 3 May 2021
+Input: /home/pzq/life/qfind/qfind -r B2cin3ckanjqry4kjrywz5ry6ce8/S2cekain3eanjry4kiq5ay6eka7e -p 5 -y 1 -w 7 -s g -f 1 -a -t 8
+
+Rule: B2cin3ckanjqry4kjrywz5ry6ce8/S2cekain3eanjry4kiq5ay6eka7e
+Period: 5
+Offset: 1
+Width:  7
+Symmetry: gutter
+Queue size: 2^20
+Hash table size: 2^20
+Minimum deepening increment: 5
+Lookahead caching disabled
+Number of threads: 8
+Printing of longest partial result disabled
+Starting search
